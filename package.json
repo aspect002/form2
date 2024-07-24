@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-hook-form": "^7.52.1"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.77.8"
+  }
+}
